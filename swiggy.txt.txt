@@ -1,3 +1,7 @@
 food
 biriyani
 tea
+tandoori
+mandi
+sweets
+1.gulabjamun
